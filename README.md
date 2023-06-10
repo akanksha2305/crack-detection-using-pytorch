@@ -5,7 +5,7 @@
 Introducing a neural network model for crack detection and surface smoothness determination in concrete surfaces. Trained using labeled images, the model accurately distinguishes between smooth and cracked surfaces. Its application in civil engineering and construction enables prioritized maintenance, informed repair decisions, and safer structures. This advancement improves efficiency and safety while ensuring the longevity of concrete infrastructure.
 
 ## Dataset
-https://docs.google.com/document/d/1iekU4Lp0HLtZDQvw0qaLjysca03elp0RbT9FA4ZmvMQ/edit?usp=sharing
+https://data.mendeley.com/datasets/5y9wdsg2zt/1/
 
 ## Tech Stack and libraries used
 - [x] python
